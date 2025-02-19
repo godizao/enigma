@@ -59,4 +59,4 @@ não esta aqui, procure mais
 
 
 
-se achou esse bonus, vc tem qualquer pedido p fazer p mim. Te amo
+se achou esse bonus, vc tem qualquer pedido p fazer p mim(que não seja dinheiro nem o cu). Te amo
