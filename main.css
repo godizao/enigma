@@ -1,0 +1,88 @@
+a{
+    font-family: Montserrat;
+    text-decoration: none;
+    font-size: 20px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+
+.menu{
+    color: transparent;
+    background-clip: text;
+    background-image: linear-gradient(90deg, #666666, #000000 20%);
+    font-weight: 700;
+    text-shadow: 0 0 20px #00000050;
+    margin: auto;
+    text-align: center;
+
+
+    
+}
+
+.menu1{
+    color: transparent;
+    background-clip: text;
+    background-image: linear-gradient(90deg, #5A3C7E, #FB6182);
+    font-size: 28px;
+    font-weight: 900;
+    text-shadow: 0 0 20px #ff24fb50;
+    margin: auto;
+    text-align: center;
+    padding-right: 5rem;
+}
+
+.container{
+    width: 800px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding-top: 5rem;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    text-align: center; 
+}
+
+ul li{
+    margin: auto;
+
+    
+}
+
+h1{
+    font-family: Montserrat;
+}
+
+.topmenu{
+    background-color: white;
+    box-shadow: 1px 1px 40px rgba(0, 0, 0, 0.158);
+    padding: 5px 5px 5px;
+}
+
+img{
+    background-color: white;
+    box-shadow: 1px 1px 40px rgba(0, 0, 0, 0.158);
+    border-radius: 50px;
+    margin: auto;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg{
+    background-image: linear-gradient(90deg, #e0e4fe41, #FFFFFF);
+}
+
+p{
+    font-family: Montserrat;
+}
+
+.tronulo{
+    margin: auto;
+    text-align: center;
+}
